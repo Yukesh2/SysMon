@@ -62,8 +62,8 @@ class Process{
 					
 
 
-				              std::cout<<"Total Mem:" <<  convert<< " GB \n"
-						<<"Used Mem:" <<done<< "GB \n"
+				              std::cout<<"Total Mem: " <<  convert<< " GB \n"
+						<<"Free Mem: " <<done<< "GB \n"
 						<<"\033[2A"
 						<<std::flush;
 					      
