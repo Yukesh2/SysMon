@@ -4,7 +4,7 @@
 ![Linux](https://img.shields.io/badge/Platform-Linux-brightgreen?style=flat-square)
 
 
-A lightweight C++ command-line tool that continuously polls the Linux kernel's virtual filesystem to report **total and free memory in real time** — no heavy tooling, no bloat.
+A FUi tool that continuously polls the Linux kernel's virtual filesystem to report **total and free memory in real time** 
 
 ---
 
